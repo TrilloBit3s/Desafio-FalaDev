@@ -1,0 +1,2 @@
+﻿Deixei o script existente como estava pois já havia solução para ele, então coloquei uma nova opção junto ao antigo resolvido, 
+sei que não é valido para a ocasião porém é uma forma de ter ideias a mais, e isso é nada mais que vemos em tutoriais por ai. 
